@@ -1,0 +1,17 @@
+human brain with the help of ai
+
+nural network is the part of Ai/ML
+deep  learning is the main part of the nural network
+
+Artificial nuralnetwork
+we have INPUT NETWORK 
+THEN THE HIDDEN NETWROK AND THE LAST ONE OUTPUT
+
+is the system of combination of hardware and software
+
+advantage to the AI Nural network
+pattern recognition system
+
+non linear system have the capability of finding shortcut to the reach computationally expernsive solution 
+take care of the data for the bank and other
+examine the stock market for the bidding
